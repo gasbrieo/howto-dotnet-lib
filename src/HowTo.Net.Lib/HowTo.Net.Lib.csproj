@@ -9,9 +9,9 @@
 	<PropertyGroup Label="Package info">
 		<PackageId>HowTo.Net.Lib</PackageId>
 		<PackageDescription>A template repository for creating and publishing .NET libraries with GitHub Actions for SonarCloud analysis and NuGet deployment.</PackageDescription>
-		<Authors>Gabriel Abreu (@gabesabreu)</Authors>
-		<PackageProjectUrl>https://https://github.com/gabesabreu/howto-dotnet-lib</PackageProjectUrl>
-		<RepositoryUrl>https://https://github.com/gabesabreu/howto-dotnet-lib</RepositoryUrl>
+		<Authors>Gabriel (@gasbrieo)</Authors>
+		<PackageProjectUrl>https://https://github.com/gasbrieo/howto-dotnet-lib</PackageProjectUrl>
+		<RepositoryUrl>https://https://github.com/gasbrieo/howto-dotnet-lib</RepositoryUrl>
 		<RepositoryType>git</RepositoryType>
 		<PackageIcon>Icon.png</PackageIcon>
 		<PackageReadmeFile>README.md</PackageReadmeFile>
