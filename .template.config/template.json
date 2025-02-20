@@ -1,0 +1,14 @@
+{
+    "$schema": "http://json.schemastore.org/template",
+    "author": "Gabriel (@gasbrieo)",
+    "classifications": [ "Lib", "C#", "Template" ],
+    "identity": "gasbrieo.howto.dotnet.lib",
+    "name": "HowTo.Net.Lib",
+    "shortName": "howto-dotnet-lib",
+    "sourceName": "HowTo.Net.Lib",
+    "preferNameDirectory": true,
+    "tags": {
+        "language": "C#",
+        "type": "solution"
+    }
+}
