@@ -39,9 +39,9 @@ jobs:
       - name: Run SonarCloud Scan
         run: |
           dotnet sonarscanner begin \
-            /k:"gabesabreu_howto-dotnet-lib" \
+            /k:"gasbrieo_howto-dotnet-lib" \
             /n:"howto-dotnet-lib" \
-            /o:"gabesabreu" \
+            /o:"gasbrieo" \
             /d:sonar.host.url="https://sonarcloud.io" \
             /d:sonar.token="${{ secrets.SONAR_TOKEN }}" \
             /d:sonar.cs.opencover.reportsPaths=**/coverage.opencover.xml
