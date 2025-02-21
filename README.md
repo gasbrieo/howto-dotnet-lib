@@ -1,4 +1,4 @@
-# HowTo.NET.Lib
+# HowTo.Net.Lib
 
 ![Sonar Quality Gate](https://img.shields.io/sonar/quality_gate/gasbrieo_howto-dotnet-lib?server=https%3A%2F%2Fsonarcloud.io&style=for-the-badge)
 ![Sonar Coverage](https://img.shields.io/sonar/coverage/gasbrieo_howto-dotnet-lib?server=https%3A%2F%2Fsonarcloud.io&style=for-the-badge)
@@ -7,7 +7,7 @@
 
 ## Overview
 
-**HowTo.NET.Lib** serves as a template for creating and publishing a .NET library to NuGet, with CI/CD workflows for SonarCloud analysis and NuGet package publishing.
+**HowTo.Net.Lib** serves as a template for creating and publishing a .NET library to NuGet, with CI/CD workflows for SonarCloud analysis and NuGet package publishing.
 
 ## Features
 
